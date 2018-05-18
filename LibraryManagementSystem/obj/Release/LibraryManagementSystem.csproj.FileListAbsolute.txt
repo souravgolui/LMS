@@ -1,0 +1,7 @@
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe.config
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.MemberPage.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.NewUser.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Home.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Login.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Properties.Resources.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MemberPage.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewUser.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Search.resources
+E:\C# project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MemberHome.resources
